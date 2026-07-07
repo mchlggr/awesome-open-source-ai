@@ -59,6 +59,7 @@ Coming soon...
 # Tools
 
 - [LLM Finetuning Script](https://www.kaggle.com/code/thomasanderson1962/public-llm-finetuning-script) - A script for finetuning language models based on dataset from the [synthetic dataset generation tool](https://www.kaggle.com/code/thomasanderson1962/public-synthetic-dataset-generation-w-internvl2).
+- [OATS](https://github.com/ariso-ai/oats) - Open-source macOS menu bar meeting-notes app with live transcription, speaker labels, AI summaries, and offline on-device mode.
 - [Open WebUI](https://openwebui.com/) - Provides a ChatGPT-like interface for chatting with local/external language models.
 - [Synthetic Dataset Generation w/ InternVL2](https://www.kaggle.com/code/thomasanderson1962/public-synthetic-dataset-generation-w-internvl2) - A script for generating synthetic datasets from PDF files (using vision instead of text extraction).
 - [TextCraft](https://github.com/suncloudsmoon/TextCraft) - Add-in for Microsoft Word with tools for proofreading, text generation, etc.
